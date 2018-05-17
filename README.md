@@ -3,7 +3,7 @@
 <h2>Privacy Policy</h2>
 <p> Upen Apps built all applications in this URL: https://play.google.com/store/apps/developer?id=Upen+Apps&hl=en as free apps. This service is provided by Upen Apps at no cost and is intended
     for use as is.</p>
-<p>This page is used to inform website visitors regarding our policies with the collection, use, and
+<p>This page is used to inform visitors regarding our policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use my Service.</p>
 <p>If you choose to use our Service, then you agree to the collection and use of information in
     relation with this policy. The Personal Information that we collect are used for providing and
