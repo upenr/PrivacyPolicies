@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Privacy Policy</h2>
-<p> Upen Apps built all applications in this URL: https://play.google.com/store/apps/developer?id=Upen+Apps&hl=en as free apps. This service is provided by Upen Apps at no cost and is intended
+<p> All applications in this link https://play.google.com/store/apps/developer?id=Upen+Apps&hl=en are free. This service is provided by Upen Apps at no cost and is intended
     for use as is.</p>
 <p>This page is used to inform visitors regarding our policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use my Service.</p>
@@ -30,7 +30,7 @@
 <p>Cookies are files with small amount of data that is commonly used an anonymous unique identifier.
     These are sent to your browser from the website that you visit and are stored on your devices’s
     internal memory.</p>
-<p>>!-- Check if this is true for your app, if unsure, just assume that you do use cookies and modify this next line -->Our Services does not uses these “cookies” explicitly. However, the app may use third party code
+<p>Our Services do not use these “cookies” explicitly. However, the app may use third party code
     and libraries that use “cookies” to collection information and to improve their services. You
     have the option to either accept or refuse these cookies, and know when a cookie is being sent
     to your device. If you choose to refuse our cookies, you may not be able to use some portions of
