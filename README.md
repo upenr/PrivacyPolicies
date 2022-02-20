@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Privacy Policy</h2>
-<p> All applications in this link https://play.google.com/store/apps/developer?id=Upen+Apps&hl=en are free. This service is provided by Upen Apps at no cost and is intended
+<p> All applications using this privacy policy are free. This service is provided by the app developer at no cost and is intended
     for use as is.</p>
 <p>This page is used to inform visitors regarding our policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use my Service.</p>
