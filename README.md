@@ -3,7 +3,7 @@
 <h2>Privacy Policy</h2>
 <p> This service is provided by the app developer and is intended
     for use as is, without modifications.</p>
-<p>This page is used to inform visitors regarding our policies with the collection, use, and
+<p>This page is used to inform visitors regarding our policies on the collection, use, and
     disclosure of Personal Information.</p>
 <p>If you choose to use our Service, then you agree to the collection and use of information in
     relation with this policy. The Personal Information that we collect are used for providing and
