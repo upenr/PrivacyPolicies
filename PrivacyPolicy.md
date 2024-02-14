@@ -4,13 +4,11 @@ PRIVACY POLICY
 
 Last updated February 13, 2024
 
-
-
 This privacy notice for Upen Apps ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
-Download and use our mobile application ( Indian Airports), or any other application of ours that links to this privacy notice
+Download and use our mobile application (Value Investor Return Ratios, Ping Range of IP Addresses, Indian Airports,Fast Audio Recorder/Player, Climate News,), or any other application of ours that links to this privacy notice
 Engage with us in other related ways, including any sales, marketing, or events
-Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services.
-
+Questions or concerns? 
+Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services.
 
 SUMMARY OF KEY POINTS
 
@@ -144,7 +142,7 @@ We have implemented appropriate and reasonable technical and organizational secu
 
 In Short: We do not knowingly collect data from or market to children under 18 years of age.
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at __________.
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at pingrange010101@gmail.com.
 
 9. WHAT ARE YOUR PRIVACY RIGHTS?
 
@@ -323,7 +321,7 @@ Right to obtain a copy of the personal data you previously shared with us
 Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
 To submit a request to exercise these rights described above, please submit a data subject access request.
 
-If we decline to take action regarding your request and you wish to appeal our decision, please email us at __________. Within forty-five (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
+If we decline to take action regarding your request and you wish to appeal our decision, please email us at pingrange010101@gmail.com. Within forty-five (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
 
 Connecticut Residents
 
@@ -336,7 +334,7 @@ Right to obtain a copy of the personal data you previously shared with us
 Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
 To submit a request to exercise these rights described above, please submit a data subject access request.
 
-If we decline to take action regarding your request and you wish to appeal our decision, please email us at __________. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
+If we decline to take action regarding your request and you wish to appeal our decision, please email us at pingrange010101@gmail.com. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
 
 Utah Residents
 
@@ -381,7 +379,7 @@ Upon receiving your request, we will respond without undue delay, but in all cas
 
 Right to appeal
 
-If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at __________. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the Attorney General to submit a complaint.
+If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at pingrange010101@gmail.com. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the Attorney General to submit a complaint.
 
 12. DO WE MAKE UPDATES TO THIS NOTICE?
 
@@ -391,9 +389,9 @@ We may update this privacy notice from time to time. The updated version will be
 
 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may contact us by email at:
+If you have questions or comments about this notice, you may contact us by email at: pingrange010101@gmail.com
 
-pingrange010101@gmail.com
+Developer Name: Upendra Rajan
 
 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
